@@ -35,8 +35,8 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/@andikaarifin7163#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/@andikaarifin7163#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/Andhikaarfn#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/Andhikaarfn#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/andhikaarfn#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/andhikaarfn#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/andhikararfn#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/andhikararfn#gh-dark-mode-only)
