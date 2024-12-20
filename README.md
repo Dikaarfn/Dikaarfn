@@ -1,8 +1,7 @@
 # Hi there, I'm Andhika 👋
 ## About me:
 - 🔭 I’m currently Jobseeker
-- 🌱 I’m currently learning PHP and Javascript
-- 👯 I’m looking to collaborate as Website Developer
+- 🤝🏻 I’m looking to collaborate as Website Developer and Mobile Developer
 - 💬 Ask me about anything
 - 📫 How to reach me: andhikaarfn@gmail.com
 
@@ -13,8 +12,8 @@
 
 ## Work Experience:
 #### 1. [Hotel Royal Bogor](https://hotelroyalbogor.com/) | Student Intern | Bogor `2022-2022`
-   - Create Signboard using Photoshop for day-to-day routine
-   - Monitored WiFi Network using Ruijie Cloud
+   - Created Signboard using Photoshop for day-to-day routine
+   - Monitored WiFi Networks using Ruijie Cloud
 ---
 
 ### Languages and Tools:
