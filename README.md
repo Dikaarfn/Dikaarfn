@@ -7,11 +7,12 @@
 
 ## Education:
 
-#### 1. [Universitas Bina Sarana Informatika](https://www.bsi.ac.id/) | Associate's Degree of Information Systems | Bogor `2020 - 2023`
+#### 1. [Universitas Bina Sarana Informatika](https://www.bsi.ac.id/) | Diploma Degree of Information Systems | Bogor `2020 - 2023`
 #### 2. [SMAN 1 Cibinong](https://www.sman1-cbi.sch.id/) | MIPA | Cibinong `2015-2018`
 
 ## Work Experience:
-#### 1. [Hotel Royal Bogor](https://hotelroyalbogor.com/) | Student Intern | Bogor `2022-2022`
+#### 2. [PT. Jakarta International Expo](https://jakartafair.co.id/) | Temporary Crew | Bogor `Jun 2025 - Jul 2025`
+#### 2. [Hotel Royal Bogor](https://hotelroyalbogor.com/) | Student Intern | Bogor `Sep 2022 - Dec 2022`
    - Created Signboard using Photoshop for day-to-day routine
    - Monitored WiFi Networks using Ruijie Cloud
 ---
@@ -31,8 +32,8 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@andikaarifin7163#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@andikaarifin7163#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/@andhikararifin#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/@andhikararifin#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/andhikaarfn#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/andhikaarfn#gh-dark-mode-only)
