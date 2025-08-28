@@ -11,7 +11,7 @@
 #### 2. [SMAN 1 Cibinong](https://www.sman1-cbi.sch.id/) | MIPA | Cibinong `2015-2018`
 
 ## Work Experience:
-#### 2. [PT. Jakarta International Expo](https://jakartafair.co.id/) | Temporary Crew | Bogor `Jun 2025 - Jul 2025`
+#### 1. [PT. Jakarta International Expo](https://jakartafair.co.id/) | Temporary Crew | Jakarta `Jun 2025 - Jul 2025`
 #### 2. [Hotel Royal Bogor](https://hotelroyalbogor.com/) | Student Intern | Bogor `Sep 2022 - Dec 2022`
    - Created Signboard using Photoshop for day-to-day routine
    - Monitored WiFi Networks using Ruijie Cloud
