@@ -11,8 +11,13 @@
 #### 2. [SMAN 1 Cibinong](https://www.sman1-cbi.sch.id/) | MIPA | Cibinong `2015-2018`
 
 ## Work Experience:
-#### 1. [PT. Jakarta International Expo](https://jakartafair.co.id/) | Temporary Crew | Jakarta `Jun 2025 - Jul 2025`
-#### 2. [Hotel Royal Bogor](https://hotelroyalbogor.com/) | Student Intern | Bogor `Sep 2022 - Dec 2022`
+#### 1. [PT. Mada Wikri Tunggal | Plant 4](http://www.madawikri.co.id/) | Admin SAP | Cikarang `Des 2025 - Now`
+   - Created daily production and raw material mixing plans
+#### 2. [PT. Mada Wikri Tunggal | Plant 3](http://www.madawikri.co.id/) | Operator | Cikarang `Sep 2025 - Des 2025`
+   - Managed inventory flows
+   - Sorted production parts into the finished goods inventory
+#### 3. [PT. Jakarta International Expo](https://jakartafair.co.id/) | Temporary Crew | Jakarta `Jun 2025 - Jul 2025`
+#### 4. [Hotel Royal Bogor](https://hotelroyalbogor.com/) | Student Intern | Bogor `Sep 2022 - Dec 2022`
    - Created Signboard using Photoshop for day-to-day routine
    - Monitored WiFi Networks using Ruijie Cloud
 ---
