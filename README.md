@@ -15,7 +15,7 @@
    - Created daily production and raw material mixing plans using SAP Bussiness One
    - Managed and processed Goods Receipt PO (GRPO) in SAP Bussiness One
    - Performed end-of-month stock reconciliation between physical counts and SAP system records
-   - Created a interactive digital dashboard for raw materials warehouse monitoring Using Looker Studio
+   - Created a interactive digital dashboard for raw materials warehouse monitoring using Looker Studio
 #### 2. [PT. Mada Wikri Tunggal | Plant 3](http://www.madawikri.co.id/) | Operator | Cikarang `Sep 2025 - Des 2025`
    - Managed inventory flows
    - Sorted production parts into the finished goods inventory
